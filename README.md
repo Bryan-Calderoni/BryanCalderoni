@@ -7,6 +7,3 @@
 - 👶🏼 Fun fact: I love to play with my baby-devil 
 
 
-### Connect with me:
-
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bryan-calderoni-369a8b139/)
