@@ -1,6 +1,6 @@
 # 👋 HI there, I'm Bryan
 ## I’m a Husband, Father, Developer and Web Designer!
-- 🔭 I’m currently working on a Gambling Project
+- 🔭 I’m currently working on a Gambling Project & Studyging FLUTTER💙
 - 🌱 I like studying new technologies
 - 👶🏼 Fun fact: I love to play with my baby-devil 
 
